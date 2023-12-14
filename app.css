@@ -1,0 +1,70 @@
+h1 {
+    background: white;
+    color: rgba(73, 176, 139, 1);
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+h6 {
+    font-family: "Noto Sans";
+    font-weight: bold;
+    text-align: center;
+    color: rgba(73, 176, 139, 1)
+
+}
+
+h5 {
+    color: gray;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 1rem;
+}
+
+[placeholder] {
+    background: rgba(196, 222, 207, 0.4);
+}
+
+button {
+    font-family: "Noto Sans";
+    color: white;
+
+}
+
+button:hover{
+    background-position: right;
+}
+
+#bttnLogin {
+    display: block;
+    margin: auto;
+    font-family: "Noto Sans";
+    font-weight: bold;
+    margin-top: 1rem;
+    padding: 0.5rem 2rem;
+}
+
+#bttnRegister {
+    display: block;
+    margin: auto;
+    font-family: "Noto Sans";
+    font-weight: bold;
+}
+
+#bttnForgot {
+    display: block;
+    font-family: "Noto Sans";
+    font-weight: bold;
+    color: rgba(73, 176, 139, 1);
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+}
+
+#bttnAccount{
+
+    display: block;
+    margin: auto;
+    font-family: "Noto Sans";
+    font-weight: bold;
+    color: rgba(73,176,139,1);
+    font-size: 1rem
+;
+}
