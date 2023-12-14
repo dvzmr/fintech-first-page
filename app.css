@@ -34,6 +34,7 @@ button:hover{
 }
 
 #bttnLogin {
+    background-color: mediumseagreen;
     display: block;
     margin: auto;
     font-family: "Noto Sans";
@@ -43,6 +44,7 @@ button:hover{
 }
 
 #bttnRegister {
+    background-color: mediumseagreen;
     display: block;
     margin: auto;
     font-family: "Noto Sans";
